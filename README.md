@@ -1,1 +1,1 @@
-# JavaSript backend started
+# JavaScript backend started
